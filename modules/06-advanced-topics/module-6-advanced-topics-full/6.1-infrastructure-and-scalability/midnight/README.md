@@ -1,3 +1,4 @@
-# Midnight
+## 🎥 Video: Midnight: Privacy and security through ZKPs- Franchella Agustin
 
-Content coming soon.
+[![Watch the video](https://youtu.be/xe3prBFoVsA)
+
