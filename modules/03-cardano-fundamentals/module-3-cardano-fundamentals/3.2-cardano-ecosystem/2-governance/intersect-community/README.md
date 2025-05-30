@@ -1,3 +1,5 @@
 # Intersect Community
+ 
+## 🎥 Video: Intersect and the Community. GovChainLab- Hub Cardano Brasil - Alves Daniela  
 
-Content coming soon.
+[![Watch the video](https://youtu.be/wJq5IAbP_TU)
