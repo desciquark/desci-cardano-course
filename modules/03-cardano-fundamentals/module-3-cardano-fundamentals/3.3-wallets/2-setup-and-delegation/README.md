@@ -1,5 +1,6 @@
 # Setup And Delegation
 
-## 🎥 Video: Introduction to Bitcoin
+## 🎥 Video: Setting up and exploring a Cardano wallet
 
-[Watch the video]([https://www.youtube.com/watch?v=Gc2en3nHxA4](https://youtu.be/PPYmrPaDvtI))
+[![Watch the video](https://img.youtube.com/vi/PPYmrPaDvtI/0.jpg)](https://youtu.be/PPYmrPaDvtI)
+
