@@ -1,0 +1,1 @@
+{"when":[{"then":{"token":{"token_name":"","currency_symbol":""},"to":{"party":{"role_token":"Supplier"}},"then":"close","pay":1000000,"from_account":{"role_token":"Lab"}},"case":{"party":{"role_token":"Lab"},"of_token":{"token_name":"","currency_symbol":""},"into_account":{"role_token":"Lab"},"deposits":1000000}}],"timeout_continuation":"close","timeout":1749234600000}
