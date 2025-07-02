@@ -1,3 +1,3 @@
-# Organizations
+## 🎥 Video: Key Cardano Organizations
 
-Content coming soon.
+[Watch the video here](https://desciquark.com/v/organizations)
