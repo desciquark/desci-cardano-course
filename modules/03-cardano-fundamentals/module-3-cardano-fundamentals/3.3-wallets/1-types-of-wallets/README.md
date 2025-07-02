@@ -1,3 +1,3 @@
-# Types Of Wallets
+## 🎥 Video: What is a Wallet and Types of Wallets
 
-Content coming soon.
+[Watch the video here](https://desciquark.com/v/wallets)
