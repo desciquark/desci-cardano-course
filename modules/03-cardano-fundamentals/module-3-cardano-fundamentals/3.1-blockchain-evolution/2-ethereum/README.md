@@ -1,3 +1,8 @@
-# Ethereum
+## 🌐 Ethereum: The Second Generation
 
-Content coming soon.
+**Topics Covered:**
+- Introduction of smart contracts and DApps  
+- Gas fees  
+- Scalability and interoperability  
+
+👉 [Watch the video on DeSci Quark](https://desciquark.com/eth)
