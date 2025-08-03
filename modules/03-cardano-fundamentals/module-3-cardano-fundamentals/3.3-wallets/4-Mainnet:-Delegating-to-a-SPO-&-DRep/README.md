@@ -2,4 +2,3 @@
 
 [Watch the video](https://desciquark.com/v/delegating-mainnet)
 
-```
