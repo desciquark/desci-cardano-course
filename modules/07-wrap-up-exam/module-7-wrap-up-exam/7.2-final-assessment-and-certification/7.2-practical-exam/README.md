@@ -1,4 +1,4 @@
-## 📄 7.2.2. Practical Exam
+## 📄 7.2. Practical Exam
 
 Participants who pass the theory exam may submit the practical challenge:  
 **Creating and simulating a smart contract in Marlowe** applied to a real-life scientific problem.
