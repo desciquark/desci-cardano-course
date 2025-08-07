@@ -1,11 +1,11 @@
 # 🧪 Testers – Pilot Testing and Feedback Collection
 
-## ✅ Acceptance Criteria
-
+- ## ✅ Acceptance Criteria
 - **Pilot test** conducted with 10+ participants  
 - **Incentive**: 50 ADA each for selected testers  
 - **Feedback** collected via structured surveys  
-- **Output**: Insights integrated into course content and platform usability  
+- **Certificate**: Each selected tester also received an NFT certificate on **Cardano mainnet** recognizing their participation  
+- **Output**: Insights integrated into course content and platform usability
 
 ---
 
