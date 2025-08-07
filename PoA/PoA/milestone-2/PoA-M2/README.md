@@ -9,7 +9,7 @@
 
 ## 🧩 Summary
 
-This README outlines the successful delivery of **Milestone 2 (M2)** for the "DeSci Quark" project – a free, bilingual educational course that introduces Decentralized Science (DeSci) using the Cardano blockchain and Marlowe smart contracts.
+This README outlines the successful delivery of **Milestone 2 (M2)** for the "DeSci Quark" project – a free educational course that introduces Decentralized Science (DeSci) using the Cardano blockchain and Marlowe smart contracts.
 
 The milestone focused on:
 - Completing the final 70% of course content  
@@ -51,10 +51,10 @@ The milestone focused on:
 
 ---
 
-## 📣 Public Campaign & Community Engagement
+## 📣 Public Tester Campaign & Community Engagement
 
 ✅ **Approved on Acceptance Criteria:**  
-> Course announced via 3+ channels (social & academic). Community group established with 10+ active members.
+> Course announced via 3+ channels. Community group established with 10+ active members.
 
 ### 🔹 Social Media Announcements:
 - [🐦 X / Twitter](https://x.com/DeSciQuark)  
@@ -85,7 +85,8 @@ The milestone focused on:
 ✅ **Approved on Acceptance Criteria:**  
 > A video was created showcasing the platform’s user interface, course access, and functionality.
 
-- [🎬 Demonstration Video](#)  
+- [![Watch the demo on YouTube](https://img.youtube.com/vi/39Al2qRMUhs/0.jpg)](https://youtu.be/39Al2qRMUhs)
+-    
 - [🧭 Platform Registration Link](https://course.desciquark.com/register/?ld_register_id=2160)
 
 ---
