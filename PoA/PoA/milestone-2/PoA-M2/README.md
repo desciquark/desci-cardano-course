@@ -45,7 +45,7 @@ The milestone focused on:
 - 37 applicants → 15 selected testers  
 - [📋 Pre-registration Form](https://www.desciquark.com/en/pre-registration)  
 - [📝 Survey Form (Tally)](https://tally.so/r/3x70XE)  
-- [📊 Spreadsheet of Applicants and Testers](https://docs.google.com/spreadsheets/d/1XeO_tOV8V6WUlzkTFUl5d1lLdIUh4lW2/edit#gid=972945007)  
+- [📊 Spreadsheet of Applicants and Testers](https://docs.google.com/spreadsheets/d/1FVHhtXvm8UEdLW-GfBPON9L__iJ8Pmhk/edit?usp=sharing&ouid=115671773133812567710&rtpof=true&sd=true) 
 - [📂 Feedback Folder (CSV + summaries)](https://drive.google.com/drive/u/1/folders/1nstDjygxfqsmjfOdlMJZQFw1b_iv2wAY)  
 - [📄 82-page Feedback Summary with Visual Comparisons](https://docs.google.com/document/d/1urhe2hNfRi7rEp9p9-0OZ925Lk873Svj/edit#heading=h.3zzqyfsui770)
 
@@ -104,6 +104,9 @@ The milestone focused on:
 
 You can view the complete Milestone 2 report with all supporting documentation and links at:  
 📥 [Google Drive – PoA M2 Full Document](https://docs.google.com/document/d/1CoAm8hDcsEk4t7c75OZ1BPootaY2f1Tv/edit?usp=sharing&ouid=115671773133812567710&rtpof=true&sd=true)
+
+🆕 We have also prepared a second version of the PoA-M2 report, which includes additional comments and improvements based on the feedback from Catalyst Milestone Reviewers:  
+📥 [Google Drive – PoA M2 v2 (with reviewer-informed updates)](https://docs.google.com/document/d/1yrSGOVj3URvIHaFuv8xwHCPWZRGShvD6/edit?usp=sharing&ouid=115671773133812567710&rtpof=true&sd=true)
 
 ---
 
