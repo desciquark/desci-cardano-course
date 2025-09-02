@@ -36,8 +36,10 @@ Selection was based on:
 - Identity verification  
 - Prior knowledge  
 
-📁 **Spreadsheet of applicants and selected testers**  
-[🔗 View Excel – All responses + selected testers tab](https://docs.google.com/spreadsheets/d/1XeO_tOV8V6WUlzkTFUl5d1lLdIUh4lW2/edit#gid=972945007)
+📁 **Anonymized Spreadsheet of Applicants and Selected Testers**  
+[🔗 View Excel – IDs only, personal data removed per Catalyst reviewers' recommendation](https://docs.google.com/spreadsheets/d/1FVHhtXvm8UEdLW-GfBPON9L__iJ8Pmhk/edit?usp=sharing&ouid=115671773133812567710&rtpof=true&sd=true)
+
+*In compliance with Catalyst milestone reviewers' feedback, tester identities and personal information (emails, wallets, and social profiles) have been removed and replaced with anonymized IDs. All transaction data (ADA & NFT) has been preserved.*
 
 ---
 
