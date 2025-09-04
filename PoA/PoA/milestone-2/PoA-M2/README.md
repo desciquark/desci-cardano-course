@@ -47,7 +47,8 @@ The milestone focused on:
 - [📝 Survey Form (Tally)](https://tally.so/r/3x70XE)  
 - [📊 Spreadsheet of Applicants and Testers](https://docs.google.com/spreadsheets/d/1FVHhtXvm8UEdLW-GfBPON9L__iJ8Pmhk/edit?usp=sharing&ouid=115671773133812567710&rtpof=true&sd=true) 
 - [📂 Feedback Folder (summaries)](https://drive.google.com/drive/u/1/folders/1nstDjygxfqsmjfOdlMJZQFw1b_iv2wAY)  
-- [📄 82-page Feedback Summary with Visual Comparisons](https://docs.google.com/document/d/1urhe2hNfRi7rEp9p9-0OZ925Lk873Svj/edit#heading=h.3zzqyfsui770)
+-📄 [82-page Feedback Summary with Visual Comparisons](https://docs.google.com/document/d/1WPoDMbc2Qp64-3RWom9Gq6bcYQwLYmUEVK2YftqGRBE/edit?usp=sharing)
+
 
 ---
 
