@@ -9,13 +9,19 @@
 
 ---
 
+## 🎥 Introduction Video  
+📺 Watch the **introductory video** to learn what DeSci Quark is all about:  
+🔗 [https://youtu.be/WNOdBE9faV0](https://youtu.be/WNOdBE9faV0)
+
+---
+
 ## 🎓 Course Overview
 
 - 📚 **8 modules** of theory and practice  
 - 🧪 Each module includes a **theoretical exam**  
 - 📋 A **final integrative exam** and the possibility to complete a **practical final project**  
 - 🎥 **19+ hours** of recorded videos  
-- 👩‍🏫 **14 guest professors and contributors** from different countries  
+- 👩‍🏫 **16 guest professors and contributors** from different countries  
 - 🛠️ Practical tutorials on creating **FTs, NFTs**, and **smart contracts** using **Marlowe**  
 - 🧠 Subtitled in **English** and **Spanish**  
 - 🌍 Covers **intellectual property, governance, funding, collaboration agreements**, and **co-authorship** in science  
