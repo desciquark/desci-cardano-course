@@ -99,7 +99,7 @@ We are committed to keeping the educational content live, responsive, and contri
 For a concise overview of the entire DeSci Quark journey — goals, development, community, and future direction — watch the summary video below:
 
 📺 **Watch the Final Project Summary Video**  
-🔗 [Click here to view](https://youtu.be/JgXq32XpKJQ)
+🔗 [Click here to view](https://youtu.be/Kit1Mx4W6YY)
 
 ---
 
